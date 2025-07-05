@@ -1,0 +1,1 @@
+clang++ -L. -lc++_shared -Wl,-rpath,\$ORIGIN $1
