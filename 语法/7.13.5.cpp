@@ -9,4 +9,5 @@ int main(){
 	int num;
 	cin>>num;
 	cout<<阶乘(num)<<endl;
+	return;
 }
