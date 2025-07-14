@@ -1,5 +1,4 @@
 /*
-* resource: half-interval_search.cpp
 * author: hnphqs
 */
 #include<iostream>
